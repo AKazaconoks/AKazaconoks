@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Antons!
 
-<!--
-**AKazaconoks/AKazaconoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I'm a .NET Software Developer. I have extensive experience in backend development using .NET technologies and am passionate about creating robust and scalable applications. My background in International Business has provided me with a unique perspective and cross-functional expertise that allows me to approach software development from a strategic and analytical standpoint.
 
-Here are some ideas to get you started:
+My contacts: a.kazaconoks@gmail.com | https://www.linkedin.com/in/antons-kazaconoks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🧰 Toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" alt="csharp logo" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet logo" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="50px">
+
+---
+
+Additional skills:
+
+* Git
+* C#
+* .NET
+* Relational Databases & SQL
+* Entity Framework
+* Azure
+* Unit Testing
+* Test Driven Developement
+* SOLID
+* Design Patterns
+* TypeScript & NodeJS basics
