@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Antons!
 
 ---
-I'm a .NET Software Developer. I have extensive experience in backend development using .NET technologies and am passionate about creating robust and scalable applications. My background in International Business has provided me with a unique perspective and cross-functional expertise that allows me to approach software development from a strategic and analytical standpoint.
+I'm a .NET Software Developer. I have experience in backend development using .NET technologies and am passionate about creating efficient and effective software solutions. My background in International Business has provided me with a unique perspective and cross-functional expertise that allows me to approach software development from a strategic and analytical standpoint.
 
 My contacts: a.kazaconoks@gmail.com | https://www.linkedin.com/in/antons-kazaconoks
 
