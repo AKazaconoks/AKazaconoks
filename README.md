@@ -25,3 +25,9 @@ Additional skills:
 * SOLID
 * Design Patterns
 * TypeScript & NodeJS basics
+
+---
+# Latest projects:
+- github.com/AKazaconoks/FlightPlanner
+- github.com/AKazaconoks/NewsPortal
+- github.com/AKazaconoks/MessageQueueProject
