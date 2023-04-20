@@ -28,6 +28,6 @@ Additional skills:
 
 ---
 # Latest projects:
-- github.com/AKazaconoks/FlightPlanner
-- github.com/AKazaconoks/NewsPortal
-- github.com/AKazaconoks/MessageQueueProject
+- www.github.com/AKazaconoks/FlightPlanner
+- www.github.com/AKazaconoks/NewsPortal
+- www.github.com/AKazaconoks/MessageQueueProject
